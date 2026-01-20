@@ -16,3 +16,14 @@ This repository contains an end-to-end data science pipeline analyzing over **2.
 - **The Policy Gap**: Identified critical risk zones with 0.0 MBU compliance (e.g., Domjur, Visakhapatnam).
 - **Market Maturity**: Maharashtra and Chhattisgarh identified as "Maintenance Focused" hubs.
 - **Economic Proxy**: "Digital Mobility" hubs found in North Delhi and Mewat, indicating high migrant worker demand.
+
+
+## 📈 Key Analysis Results
+
+### Mandatory Biometric Update (MBU) Compliance
+![MBU Compliance](mbu_compliance_map.png)
+*Identifies critical policy gaps in youth revalidation.*
+
+### Market Maturity Distribution
+![Market Maturity](market_maturity_map.png)
+*Segments states by 'Maintenance' vs 'Growth' infrastructure needs.*
